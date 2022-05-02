@@ -1,6 +1,6 @@
 ### Hi there, my name is Vicente Bayúgar 👋
 
-I'm currently in a program at NoCountry as a Frontend Developer to accelerate the seniority. 
+Currently in a program at NoCountry as a Frontend Developer to accelerate the seniority. 
 I’m a very curious person, passionate about technology and music. 
 My main programming languages/technologies are: React, Firebase, JavaScript, jQuery, CSS, Bootstrap, HTML and GitHub. 
 I am currently studying React Native and Node Js.
